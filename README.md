@@ -2,9 +2,9 @@
 
 
 I am not the creator of any of the above games:
-  - re3 and reVC are created by [GTAmodding](https://github.com/GTAmodding)
-    - More info (also source code) about re3 can be found [here](https://github.com/GTAmodding/re3/tree/master/)
-    - More info (also source code) about reVC can be found [here](https://github.com/GTAmodding/re3/tree/miami/)
+  - re3 and reVC are created by [GTAmodding](https://github.com/GTAmodding) and archived by me.
+    - More info (also source code) about re3 can be found [here](https://github.com/Jai-JAP/re-GTA/tree/re3/)(archived mirror)
+    - More info (also source code) about reVC can be found [here](https://github.com/Jai-JAP/re-GTA/tree/reVC/)(archived mirror)
   
   - requires PC game assets to work, so you must own a copy of GTA.
   
